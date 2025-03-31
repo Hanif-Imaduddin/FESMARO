@@ -10,11 +10,9 @@ Proyek ini bertujuan untuk melakukan analisis sentimen pada ulasan pelanggan dar
 📂 Sentiment-Analysis-Project
 │-- 📄 README.md (Dokumen ini)
 │-- 📄 Laporan.pdf (Laporan penelitian lengkap)
-│-- 📂 dataset/ (Folder berisi dataset ulasan Amazon)
-│   │-- reviews.csv
-│-- 📂 notebooks/
-│   │-- RandomForest_Model.ipynb (Notebook dengan model Random Forest)
-│   │-- DistilBERT_Model.ipynb (Notebook dengan model DistilBERT)
+│-- reviews.csv(Folder berisi dataset ulasan Amazon)
+│-- RandomForest_Model.ipynb (Notebook dengan model Random Forest)
+│-- DistilBERT_Model.ipynb (Notebook dengan model DistilBERT)
 ```
 
 ## Metodologi
